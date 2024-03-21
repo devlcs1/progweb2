@@ -15,4 +15,4 @@ $mpdf->WriteHTML($html);
 // Salve o PDF ou exiba
 $mpdf->Output('meu_pdf.pdf', 'D'); // "D" para forçar o download
 
-echo "PDF gerado com sucesso!";
+echo "PDF gerado com sucesso!"; 
