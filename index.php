@@ -6,7 +6,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 $mpdf = new \Mpdf\Mpdf();
 
 // Seu conteúdo HTML para o PDF
-$html = '<h1>Meu Primeiro PDF com mPDF</h1>
+$html = '<h1>PDF Gerado por Lucas Mendonca</h1>
 <p>Este é um PDF gerado usando mPDF no PHP.</p>';
 
 // Adicione o conteúdo HTML ao PDF
